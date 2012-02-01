@@ -1,5 +1,5 @@
 {
-    "name": "linkvid",
+    "name": "last-at",
     "version": "0.0.1",
     "author": "Jeremie Miller",
     "licenses": [{
@@ -7,10 +7,10 @@
         "url": "http://creativecommons.org/licenses/MIT/"
     }],
     "repository":{
-        "viewer":"links",
-        "title":"Linked Videos",
+        "viewer":"places",
+        "title":"Last At",
         "type": "app",
-        "description": "See all the videos extracted from your links!",
+        "description": "Find out when you or your friends were last at any place.",
         "static":"true"
     }
 }
