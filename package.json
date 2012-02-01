@@ -1,0 +1,16 @@
+{
+    "name": "linkvid",
+    "version": "0.0.1",
+    "author": "Jeremie Miller",
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://creativecommons.org/licenses/MIT/"
+    }],
+    "repository":{
+        "viewer":"links",
+        "title":"Linked Videos",
+        "type": "app",
+        "description": "See all the videos extracted from your links!",
+        "static":"true"
+    }
+}
