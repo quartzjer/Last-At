@@ -1,16 +1,16 @@
 {
     "name": "last-at",
     "version": "0.1.1",
-    "author": "Jeremie Miller",
     "description": "Find out when you or your friends were last at any place.",
     "licenses": [{
         "type": "MIT",
         "url": "http://creativecommons.org/licenses/MIT/"
     }],
     "repository":{
-        "viewer":"places",
         "title":"Last At",
-        "type": "app",
-        "static":"true"
+        "uses": {
+          "services": [ "foursquare" ],
+          "types": [ "places" ]
+        }
     }
 }
